@@ -8,7 +8,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Furqan17-ef8236?style=flat&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13221937/Furqan17)](https://stackoverflow.com/users/13221937/Furqan17)
 
 
-<a href="https://github.com/Furqan17"><img align="right" height="235px" width="430px" src="/img/firewatch.png" /></a>
+<img align="right" height="235px" width="430px" src="/img/firewatch.png" />
 <h2>⚡️ About me</h2>
 <ul>
 <li>🏫 Computer Science at <strong><a href="https://www.utoronto.ca/">UofT :canada:</a></strong></li>
