@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Furqan</h2>
 
-<p><strong>SWE Intern <a href="https://www.manulife.ca/personal.html">@manulife</a></strong></p>
+<p><strong>software engineer intern <a href="https://www.autodesk.ca/en">@autodesk</a></strong></p>
   
 [![Linkedin Badge](https://img.shields.io/badge/-Furqan17-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Furqanq/)](https://www.linkedin.com/in/Furqanq/)
 [![Website Badge](https://img.shields.io/badge/-Furqan.io-651fff?style=flat&logo=Google-Chrome&logoColor=white&link=https://Furqan.io)](https://Furqan.io)
@@ -11,8 +11,8 @@
 <a href="https://github.com/Furqan17"><img src="https://raw.githubusercontent.com/Furqan17/Furqan17/master/img/firewatch.png" align="right" height="235px" width="430px"  /></a>
 <h2>⚡️ About me</h2>
 <ul>
-<li>🏫 Computer Science at <strong><a href="https://www.utoronto.ca/">UofT :canada:</a></strong></li>
-<li>🌩️ Learning <strong><a href="https://golang.org/">Go</a></strong></li>
+<li>🏫 Computer Science at UofT</li>
+<li>🌩️ Currently learning Go</li>
 <li>👀 Check out my <strong><a href="https://furqan.io">website</a></strong></li>
 </ul>
 
@@ -33,7 +33,6 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="35" height="35" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="35" height="35" /></a>
-  <a href="https://www.electronjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/electron/electron-original.svg" alt="electron" width="35" height="35" /></a>
 
 <p align="right">
   <a href="https://github.com/Furqan17"><img src ="https://github-readme-stats.vercel.app/api?username=Furqan17&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues,contribs&include_all_commits=true"></a>
