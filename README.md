@@ -12,8 +12,7 @@
 <h2>⚡️ About me</h2>
 <ul>
 <li>🏫 Computer Science at <strong><a href="https://www.utoronto.ca/">UofT :canada:</a></strong></li>
-<li>:lollipop: Currently experimenting with <strong><a href="https://graphql.org/">GraphQL</a></strong></li>
-<li>:cloud: Learning <strong><a href="https://golang.org/">Go</a></strong></li>
+<li>🌩️ Learning <strong><a href="https://golang.org/">Go</a></strong></li>
 <li>👀 Check out my <strong><a href="https://furqan.io">website</a></strong></li>
 </ul>
 
@@ -31,8 +30,8 @@
   <a href="https://www.w3schools.com/java/java_intro.asp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35" /></a>
   <a href="https://www.learn-c.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="35" height="35" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="35" height="35" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="35" height="35" /></a>
   <a href="https://www.electronjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/electron/electron-original.svg" alt="electron" width="35" height="35" /></a>
 
