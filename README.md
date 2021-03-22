@@ -33,8 +33,3 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="35" height="35" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="35" height="35" /></a>
-
-<p align="right">
-  <a href="https://github.com/Furqan17"><img src ="https://github-readme-stats.vercel.app/api?username=Furqan17&show_icons=true&count_private=true&theme=buefy&hide_border=true&hide=issues,contribs&include_all_commits=true"></a>
-  <a href="https://github.com/Furqan17"><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Furqan17&layout=compact&theme=buefy&hide_border=true&hide=html&langs_count=10"></a>
-</p>
