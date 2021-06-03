@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Furqan</h2>
 
-<p><strong>software engineer intern <a href="https://www.autodesk.ca/en">@autodesk</a></strong></p>
+<p><strong>data engineer intern <a href="https://www.amazon.ca/">@amazon</a></strong></p>
   
 [![Linkedin Badge](https://img.shields.io/badge/-Furqan17-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Furqanq/)](https://www.linkedin.com/in/Furqanq/)
 [![Website Badge](https://img.shields.io/badge/-Furqan.io-651fff?style=flat&logo=Google-Chrome&logoColor=white&link=https://Furqan.io)](https://Furqan.io)
@@ -18,7 +18,7 @@
 
 
 
-<h2>🚀 Tech & Stats</h2>
+<h2>🚀 Tech </h2>
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35" /></a>
   <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" /></a>
