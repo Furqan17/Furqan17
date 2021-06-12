@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Furqan</h2>
 
-<p><strong>data engineer intern <a href="https://www.amazon.ca/">@amazon</a></strong></p>
+<p><strong></strong></p>
   
 [![Linkedin Badge](https://img.shields.io/badge/-Furqan17-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Furqanq/)](https://www.linkedin.com/in/Furqanq/)
 [![Website Badge](https://img.shields.io/badge/-Furqan.io-651fff?style=flat&logo=Google-Chrome&logoColor=white&link=https://Furqan.io)](https://Furqan.io)
@@ -9,10 +9,10 @@
 
 
 <a href="https://github.com/Furqan17"><img src="https://raw.githubusercontent.com/Furqan17/Furqan17/master/img/firewatch.png" align="right" height="235px" width="430px"  /></a>
-<h2>⚡️ About me</h2>
+<h2>⚡️ About </h2>
 <ul>
-<li>🏫 Computer Science at UofT</li>
-<li>🌩️ Currently learning Go</li>
+<li>📦 Data Engineer Intern at Amazon</li>
+<li>📚 Computer Science at UofT</li>
 <li>👀 Check out my <strong><a href="https://furqan.io">website</a></strong></li>
 </ul>
 
@@ -25,7 +25,6 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35" height="35" /></a>
   <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/redux/redux-original.svg" alt="redux" width="35" height="35" /></a>
   <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="35" height="35" /></a>
-  <a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="grahpql" width="35" height="35" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35" /></a>
   <a href="https://www.w3schools.com/java/java_intro.asp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35" /></a>
   <a href="https://www.learn-c.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35" /></a>
