@@ -1,9 +1,5 @@
-<h2>Hey 👋, I'm Furqan</h2>
-
-<h2>⚡️ About </h2>
-<ul>
-<li>💻 Software Engineer at Capital One</li>
-<li>🎓 UofT - Computer Science </li>
-<li>📦 Prev @ Amazon, Autodesk, Manulife, RBC</li>
-</ul>
+### Hey 👋 I'm Furqan
+- 🥕 Software Engineer @ [Instacart](https://www.instacart.com/)
+- 🎓 University of Toronto Computer Science
+- 💻 Previously at Capital One, Amazon, Autodesk, Manulife, RBC
   
